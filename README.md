@@ -37,3 +37,10 @@ This notebook reproduces all experiments in Section 6 (Empirical Validation), in
 Python, PyTorch, NumPy / Pandas / SciPy, scikit-learn, matplotlib
 
 Deterministic options and fixed seeds are enabled to ensure reproducibility.
+
+---
+
+## License
+
+This repository is released under the MIT License.  
+Users are free to reuse, modify, and distribute the code under the terms of the license.
