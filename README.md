@@ -4,7 +4,11 @@ This repository provides the reference implementation and experimental notebook 
 
 **On Admissible Rank-Based Input Normalization**
 
-The notebook reproduces all experiments in **Section 6 (Empirical Validation)** and evaluates admissible rank-based input normalization operators under the structural conditions (C1)–(C3), with comparisons to continuous sorting–based baselines (SoftSort, Sinkhorn, QNorm).
+arXiv: https://arxiv.org/abs/2512.22587
+
+The paper is primarily theoretical; the experiments reproduced here provide supporting validation of the proposed structural conditions.
+
+In particular, the notebook reproduces all experiments in **Section 6 (Empirical Validation)** and evaluates admissible rank-based input normalization operators under the structural conditions (C1)–(C3), with comparisons to continuous sorting–based baselines (SoftSort, Sinkhorn, QNorm).
 
 Only synthetic or publicly available datasets are used, and all results are fully reproducible.
 
